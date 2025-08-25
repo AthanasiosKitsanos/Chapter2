@@ -1,0 +1,124 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Drill",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/Build/drill.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
+            "preLaunchTask": "Drill"
+        },
+
+        {
+            "name": "Convertion",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/Build/convertion.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
+            "preLaunchTask": "Convertion"
+        },
+
+        {
+            "name": "Vals",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/Build/vals.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
+            "preLaunchTask": "Vals"
+        },
+
+        {
+            "name": "Int3",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/Build/int3.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
+            "preLaunchTask": "Int3"
+        },
+
+        {
+            "name": "Odd_Even",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/Build/odd_even.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
+            "preLaunchTask": "Odd_Even"
+        },
+
+        {
+            "name": "Spelling",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/Build/spelling.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
+            "preLaunchTask": "Spelling"
+        },
+
+        {
+            "name": "Operands",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/Build/operands.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
+            "preLaunchTask": "Operands"
+        },
+
+        {
+            "name": "Pennies",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/Build/pennies.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
+            "preLaunchTask": "Pennies"
+        }
+    ]
+}
