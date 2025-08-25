@@ -7,7 +7,7 @@
             "command": "g++",
             "args": [
                 "-g",
-                "${workspaceFolder}/Src/drill.cpp",
+                "${workspaceFolder}/Drill/drill.cpp",
                 "-I${workspaceFolder}/Headers",
                 "-o",
                 "${workspaceFolder}/Build/drill.exe"
@@ -22,15 +22,15 @@
         },
 
         {
-            "label": "Convertion",
+            "label": "Exercise_2",
             "type": "shell",
             "command": "g++",
             "args": [
                 "-g",
-                "${workspaceFolder}/Src/convertion.cpp",
+                "${workspaceFolder}/Exercises/exercise_2.cpp",
                 "-I${workspaceFolder}/Headers",
                 "-o",
-                "${workspaceFolder}/Build/convertion.exe"
+                "${workspaceFolder}/Build/exercise_2.exe"
             ],
             "group": {
                 "kind": "build",
@@ -42,15 +42,15 @@
         },
 
         {
-            "label": "Vals",
+            "label": "Exercise_4_to_5",
             "type": "shell",
             "command": "g++",
             "args": [
                 "-g",
-                "${workspaceFolder}/Src/vals.cpp",
+                "${workspaceFolder}/Exercises/exercise_4_to_5.cpp",
                 "-I${workspaceFolder}/Headers",
                 "-o",
-                "${workspaceFolder}/Build/vals.exe"
+                "${workspaceFolder}/Build/exercise_4_to_5.exe"
             ],
             "group": {
                 "kind": "build",
@@ -62,15 +62,15 @@
         },
 
         {
-            "label": "Int3",
+            "label": "Exercise_6_to_7",
             "type": "shell",
             "command": "g++",
             "args": [
                 "-g",
-                "${workspaceFolder}/Src/int3.cpp",
+                "${workspaceFolder}/Exercises/exercise_6_to_7.cpp",
                 "-I${workspaceFolder}/Headers",
                 "-o",
-                "${workspaceFolder}/Build/int3.exe"
+                "${workspaceFolder}/Build/exercise_6_to_7.exe"
             ],
             "group": {
                 "kind": "build",
@@ -82,15 +82,15 @@
         },
 
         {
-            "label": "Odd_Even",
+            "label": "Exercise_8",
             "type": "shell",
             "command": "g++",
             "args": [
                 "-g",
-                "${workspaceFolder}/Src/odd_even.cpp",
+                "${workspaceFolder}/Exercises/exercise_8.cpp",
                 "-I${workspaceFolder}/Headers",
                 "-o",
-                "${workspaceFolder}/Build/odd_even.exe"
+                "${workspaceFolder}/Build/exercise_8.exe"
             ],
             "group": {
                 "kind": "build",
@@ -102,15 +102,15 @@
         },
 
         {
-            "label": "Spelling",
+            "label": "Exercise_9",
             "type": "shell",
             "command": "g++",
             "args": [
                 "-g",
-                "${workspaceFolder}/Src/spelling.cpp",
+                "${workspaceFolder}/Exercises/exercise_9.cpp",
                 "-I${workspaceFolder}/Headers",
                 "-o",
-                "${workspaceFolder}/Build/spelling.exe"
+                "${workspaceFolder}/Build/exercise_9.exe"
             ],
             "group": {
                 "kind": "build",
@@ -122,15 +122,15 @@
         },
 
         {
-            "label": "Operands",
+            "label": "Exercise_10",
             "type": "shell",
             "command": "g++",
             "args": [
                 "-g",
-                "${workspaceFolder}/Src/operands.cpp",
+                "${workspaceFolder}/Exercises/exercise_10.cpp",
                 "-I${workspaceFolder}/Headers",
                 "-o",
-                "${workspaceFolder}/Build/operands.exe"
+                "${workspaceFolder}/Build/exercise_10.exe"
             ],
             "group": {
                 "kind": "build",
@@ -142,15 +142,15 @@
         },
 
         {
-            "label": "Pennies",
+            "label": "Exercise_11",
             "type": "shell",
             "command": "g++",
             "args": [
                 "-g",
-                "${workspaceFolder}/Src/pennies.cpp",
+                "${workspaceFolder}/Exercises/exercise_11.cpp",
                 "-I${workspaceFolder}/Headers",
                 "-o",
-                "${workspaceFolder}/Build/pennies.exe"
+                "${workspaceFolder}/Build/exercise_11.exe"
             ],
             "group": {
                 "kind": "build",

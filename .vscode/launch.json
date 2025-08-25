@@ -17,10 +17,10 @@
         },
 
         {
-            "name": "Convertion",
+            "name": "Exercise_2",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/Build/convertion.exe",
+            "program": "${workspaceFolder}/Build/exercise_2.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
@@ -28,14 +28,14 @@
             "externalConsole": true,
             "MIMode": "gdb",
             "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
-            "preLaunchTask": "Convertion"
+            "preLaunchTask": "Exercise_2"
         },
 
         {
-            "name": "Vals",
+            "name": "Exercise_4_to_5",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/Build/vals.exe",
+            "program": "${workspaceFolder}/Build/exercise_4_to_5.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
@@ -43,14 +43,14 @@
             "externalConsole": true,
             "MIMode": "gdb",
             "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
-            "preLaunchTask": "Vals"
+            "preLaunchTask": "Exercise_4_to_5"
         },
 
         {
-            "name": "Int3",
+            "name": "Exercise_6_to_7",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/Build/int3.exe",
+            "program": "${workspaceFolder}/Build/exercise_6_to_7.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
@@ -58,14 +58,14 @@
             "externalConsole": true,
             "MIMode": "gdb",
             "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
-            "preLaunchTask": "Int3"
+            "preLaunchTask": "Exercise_6_to_7"
         },
 
         {
-            "name": "Odd_Even",
+            "name": "Exercise_8",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/Build/odd_even.exe",
+            "program": "${workspaceFolder}/Build/exercise_8.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
@@ -73,14 +73,14 @@
             "externalConsole": true,
             "MIMode": "gdb",
             "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
-            "preLaunchTask": "Odd_Even"
+            "preLaunchTask": "Exercise_8"
         },
 
         {
-            "name": "Spelling",
+            "name": "Exercise_9",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/Build/spelling.exe",
+            "program": "${workspaceFolder}/Build/exercise_9.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
@@ -88,14 +88,14 @@
             "externalConsole": true,
             "MIMode": "gdb",
             "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
-            "preLaunchTask": "Spelling"
+            "preLaunchTask": "Exercise_9"
         },
 
         {
-            "name": "Operands",
+            "name": "Exercise_10",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/Build/operands.exe",
+            "program": "${workspaceFolder}/Build/exercise_10.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
@@ -103,14 +103,14 @@
             "externalConsole": true,
             "MIMode": "gdb",
             "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
-            "preLaunchTask": "Operands"
+            "preLaunchTask": "Exercise_10"
         },
 
         {
-            "name": "Pennies",
+            "name": "Exercise_11",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/Build/pennies.exe",
+            "program": "${workspaceFolder}/Build/exercise_11.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
@@ -118,7 +118,7 @@
             "externalConsole": true,
             "MIMode": "gdb",
             "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
-            "preLaunchTask": "Pennies"
+            "preLaunchTask": "Exercise_11"
         }
     ]
 }
